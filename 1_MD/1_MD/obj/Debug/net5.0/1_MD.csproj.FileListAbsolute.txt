@@ -1,0 +1,16 @@
+C:\Users\Dairis\Desktop\C# mape\1_MD\1_MD\1_MD\bin\Debug\net5.0\1_MD.exe
+C:\Users\Dairis\Desktop\C# mape\1_MD\1_MD\1_MD\bin\Debug\net5.0\1_MD.deps.json
+C:\Users\Dairis\Desktop\C# mape\1_MD\1_MD\1_MD\bin\Debug\net5.0\1_MD.runtimeconfig.json
+C:\Users\Dairis\Desktop\C# mape\1_MD\1_MD\1_MD\bin\Debug\net5.0\1_MD.runtimeconfig.dev.json
+C:\Users\Dairis\Desktop\C# mape\1_MD\1_MD\1_MD\bin\Debug\net5.0\1_MD.dll
+C:\Users\Dairis\Desktop\C# mape\1_MD\1_MD\1_MD\bin\Debug\net5.0\ref\1_MD.dll
+C:\Users\Dairis\Desktop\C# mape\1_MD\1_MD\1_MD\bin\Debug\net5.0\1_MD.pdb
+C:\Users\Dairis\Desktop\C# mape\1_MD\1_MD\1_MD\obj\Debug\net5.0\1_MD.csproj.AssemblyReference.cache
+C:\Users\Dairis\Desktop\C# mape\1_MD\1_MD\1_MD\obj\Debug\net5.0\1_MD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dairis\Desktop\C# mape\1_MD\1_MD\1_MD\obj\Debug\net5.0\1_MD.AssemblyInfoInputs.cache
+C:\Users\Dairis\Desktop\C# mape\1_MD\1_MD\1_MD\obj\Debug\net5.0\1_MD.AssemblyInfo.cs
+C:\Users\Dairis\Desktop\C# mape\1_MD\1_MD\1_MD\obj\Debug\net5.0\1_MD.csproj.CoreCompileInputs.cache
+C:\Users\Dairis\Desktop\C# mape\1_MD\1_MD\1_MD\obj\Debug\net5.0\1_MD.dll
+C:\Users\Dairis\Desktop\C# mape\1_MD\1_MD\1_MD\obj\Debug\net5.0\ref\1_MD.dll
+C:\Users\Dairis\Desktop\C# mape\1_MD\1_MD\1_MD\obj\Debug\net5.0\1_MD.pdb
+C:\Users\Dairis\Desktop\C# mape\1_MD\1_MD\1_MD\obj\Debug\net5.0\1_MD.genruntimeconfig.cache
